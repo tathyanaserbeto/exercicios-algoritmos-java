@@ -1,3 +1,4 @@
+
 # Exercícios de Algoritmos em Java
 
 Este repositório contém a resolução de exercícios de algoritmos
@@ -12,22 +13,22 @@ Java e versionamento com Git/GitHub.
 Os exercícios estão organizados por etapas (passos), conforme o conteúdo estudado:
 
 - **PASSO 01** – Sequências básicas (Exercícios 01 ao 16)
-Entrada e saída de dados | Operações matemáticas simples | Cálculos básicos | Sequência linear (sem decisões)
+Entrada e saída de dados | Operações matemáticas simples | Cálculos básicos | Sequência linear
 
 - **PASSO 02** – Condições básicas (Exercícios 17 ao 25)
-if | Condições simples | Comparações diretas
+`if` | Condições simples | Comparações diretas
 
 - **PASSO 03** – Condições compostas (Exercícios 26 ao 37)
-if / else | else if | Condições encadeadas | Decisões mais complexas
+`if / else` | `else if` | Condições encadeadas | Decisões mais complexas
 
 - **PASSO 04** – Repetições (while) (Exercícios 38 ao 55)
-Laço while | Contadores | Acumuladores | Repetições com condição
+Laço `while` | Contadores | Acumuladores | Repetições com condição
 
 - **PASSO 05** – Repetições (Exercícios 56 ao 60)
-while com condição de parada | Controle de fluxo com sentinela
+`while` com condição de parada | Controle de fluxo com sentinela
 
 - **PASSO 06** – Repetições com do-while (Exercícios 61 ao 63)
-Laço do while | Execução garantida ao menos uma vez
+Laço do `while` | Execução garantida ao menos uma vez
 
 - **PASSO 07** – Repetições com for (Exercícios 64 ao 70)
 Laço for | Contadores controlados | Sequências numéricas

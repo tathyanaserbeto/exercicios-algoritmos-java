@@ -13,28 +13,16 @@ Java e versionamento com Git/GitHub.
 Os exercícios estão organizados por etapas, conforme o conteúdo estudado. 
 Cada exercício está implementado em uma classe Java individual.
 
-
-- **ETAPA 01** – Sequências básicas - Exercícios 01 ao 16
-*Entrada e saída de dados | Operações matemáticas simples | Cálculos básicos | Sequência linear*
-- **ETAPA 02** – Condições básicas - Exercícios 17 ao 25
-*`if` | Condições simples | Comparações diretas*
-- **ETAPA 03** – Condições compostas - Exercícios 26 ao 37
-*`if / else` | `else if` | Condições encadeadas | Decisões mais complexas*
-- **ETAPA 04** – Repetições (while) - Exercícios 38 ao 55
-*Laço `while` | Contadores | Acumuladores | Repetições com condição*
-- **ETAPA 05** – Repetições - Exercícios 56 ao 60
-*`while` com condição de parada | Controle de fluxo com sentinela*
-- **ETAPA 06** – Repetições com do-while - Exercícios 61 ao 63
-*Laço do `while` | Execução garantida ao menos uma vez*
-- **ETAPA 07** – Repetições com for - Exercícios 64 ao 70
-*Laço for | Contadores controlados | Sequências numéricas*
-- **ETAPA 08** – Vetores - Exercícios 71 ao 85
-*Arrays | Índices | Percorrer vetores | Relacionamento entre vetores*
-- **ETAPA 09** – Procedimentos - Exercícios 86 ao 94
-*Métodos void | Passagem de parâmetros | Organização do código*
-- **ETAPA 10** – Funções - Exercícios 95 ao 100
-*Métodos com retorno | Reuso de código | Lógica mais estruturada*
-
+- **ETAPA 01** – Sequências básicas
+- **ETAPA 02** – Condições básicas
+- **ETAPA 03** – Condições compostas
+- **ETAPA 04** – Repetições `while` com condição
+- **ETAPA 05** – Repetições `while` com sentinela
+- **ETAPA 06** – Repetições com `do-while`
+- **ETAPA 07** – Repetições com `for`
+- **ETAPA 08** – Vetores
+- **ETAPA 09** – Procedimentos
+- **ETAPA 10** – Funções
 
 
 ## 🚀 Tecnologias utilizadas

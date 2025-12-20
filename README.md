@@ -34,5 +34,5 @@ Cada exercício está implementado em uma classe Java individual.
 
 ## 📌 Status do projeto
 
-- ✅ PASSO 01 – Sequências básicas (Exercícios 01 a 16)
+- ✅ ETAPA 01 – Sequências básicas (Exercícios 01 a 16)
 - ⏳ Próximos passos em construção

@@ -1,4 +1,4 @@
-package br.com.tathyana.exercicios.passo04_repeticoesenquanto;
+package br.com.tathyana.exercicios.passo04_repeticoeswhile;
 
 /*
 Curso: Algoritmos – Gustavo Guanabara
@@ -11,8 +11,11 @@ Faça um algoritmo que mostre na tela a seguinte contagem:
 public class Ex39_ContagemRegressiva10a3 {
     public static void main(String[] args) {
 
-        for (int i = 10; i >= 3 ; i--) {
-            System.out.print(i + " ");
+        int contador = 10;
+
+        while (contador >= 3){
+            System.out.print(contador + " ");
+            contador--;
         }
 
         System.out.println("Acabou!");

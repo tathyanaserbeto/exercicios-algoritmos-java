@@ -1,4 +1,4 @@
-package br.com.tathyana.exercicios.passo04_repeticoesenquanto;
+package br.com.tathyana.exercicios.passo04_repeticoeswhile;
 
 /*
 Curso: Algoritmos – Gustavo Guanabara
@@ -9,8 +9,11 @@ Curso: Algoritmos – Gustavo Guanabara
 public class Ex40_ContagemDe3Em3 {
     public static void main(String[] args) {
 
-        for (int i = 0; i < 20; i+=3) {
-            System.out.print(i + " ");
+        int contador = 0;
+
+        while (contador < 20){
+            System.out.print(contador + " ");
+            contador += 3;
         }
 
         System.out.println("Acabou!");

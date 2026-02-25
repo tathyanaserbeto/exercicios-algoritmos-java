@@ -1,4 +1,4 @@
-package br.com.tathyana.exercicios.passo04_repeticoesenquanto;
+package br.com.tathyana.exercicios.passo04_repeticoeswhile;
 
 /*
 Curso: Algoritmos – Gustavo Guanabara
@@ -11,8 +11,11 @@ Desenvolva um programa que mostre na tela a seguinte contagem:
 public class Ex41_ContagemRegressiva100a0De5Em5 {
     public static void main(String[] args) {
 
-        for (int i = 100; i >= 0; i-=5) {
-            System.out.print(i + " ");
+        int contador = 100;
+
+        while (contador >=0) {
+            System.out.print(contador + " ");
+            contador -= 5;
         }
 
         System.out.println("Acabou!");

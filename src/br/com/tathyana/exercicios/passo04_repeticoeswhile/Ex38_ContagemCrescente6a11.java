@@ -1,4 +1,4 @@
-package br.com.tathyana.exercicios.passo04_repeticoesenquanto;
+package br.com.tathyana.exercicios.passo04_repeticoeswhile;
 
 /*
 Curso: Algoritmos – Gustavo Guanabara
@@ -11,8 +11,11 @@ Escreva um programa que mostre na tela a seguinte contagem:
 public class Ex38_ContagemCrescente6a11 {
     public static void main(String[] args) {
 
-        for (int i = 6; i <= 11 ; i++) {
-            System.out.print(i + " ");
+        int contador = 6;
+
+        while(contador <= 11){
+            System.out.print(contador + " ");
+            contador++;
         }
 
         System.out.println("Acabou!");

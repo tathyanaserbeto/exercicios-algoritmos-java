@@ -19,7 +19,8 @@ public class Ex50_Sorteio20Numeros {
         int acimaDe5 = 0;
         int divisiveisPor3 = 0;
 
-        for (int i = 0; i < 20; i++) {
+        int i = 0;
+        while (i < 20) {
             int numero = random.nextInt(11);
 
             System.out.print(numero + " ");
@@ -32,6 +33,7 @@ public class Ex50_Sorteio20Numeros {
                 divisiveisPor3++;
             }
 
+            i++;
         }
 
         System.out.println(" ");

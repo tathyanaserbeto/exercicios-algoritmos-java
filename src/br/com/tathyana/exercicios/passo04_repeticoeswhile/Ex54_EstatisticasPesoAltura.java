@@ -23,7 +23,8 @@ public class Ex54_EstatisticasPesoAltura {
         int menos50 = 0;
         int mais190 = 0;
 
-        for (int i = 1; i < 8; i++){
+        int i = 1;
+        while (i < 8){
             System.out.println("---------------");
             System.out.println("Pessoa " + i + ": ");
             System.out.println("Qual é a altura?");
@@ -44,6 +45,8 @@ public class Ex54_EstatisticasPesoAltura {
            if (peso > 90) {  //Pessoas pesam mais de 90Kg
               mais90++;
            }
+
+            i++;
 
         }
 

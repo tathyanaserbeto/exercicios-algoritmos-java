@@ -24,7 +24,8 @@ public class Ex52_EstatisticasIdade10Pessoas {
         int menos5 = 0;
         int maiorIdade = 0;
 
-        for (int i = 1; i <= 10; i++) {
+        int i = 1;
+        while (i <= 10) {
             System.out.println("Qual é a idade da pessoa " + i + ": ");
             idade = scanner.nextInt();
 
@@ -46,6 +47,7 @@ public class Ex52_EstatisticasIdade10Pessoas {
                 maiorIdade = idade;
             }
 
+            i++;
         }
 
         mediaIdade = somaIdade / 10;

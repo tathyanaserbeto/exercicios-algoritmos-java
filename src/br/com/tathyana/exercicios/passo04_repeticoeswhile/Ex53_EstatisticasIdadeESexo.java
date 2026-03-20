@@ -26,7 +26,8 @@ public class Ex53_EstatisticasIdadeESexo {
         double mediaIdade;
         double somaIdade = 0;
 
-        for (int i=1; i<6; i++){
+        int i=1;
+        while (i<6){
             System.out.println("--------------");
             System.out.println("> Pessoa " + i + ": ");
             System.out.println("Qual é a idade: ");
@@ -50,7 +51,7 @@ public class Ex53_EstatisticasIdadeESexo {
 
             somaIdade = somaIdade + idade;
 
-
+            i++;
         }
 
         if (homens > 0) {

@@ -21,7 +21,8 @@ public class Ex55_JogoAdivinhacao4Tentativas {
         int sorteio = random.nextInt(1,10);
         System.out.println("Descubra qual o número sorteado entre 1 a 10");
 
-        for (int i = 1; i <= 4; i++){
+        int i = 1;
+        while (i <= 4){
             System.out.println("Tentativa " + i + "/4: ");
             int tentativaJogador = scanner.nextInt();
 
@@ -35,6 +36,7 @@ public class Ex55_JogoAdivinhacao4Tentativas {
                 }
             }
 
+            i++;
         }
 
         if (!acertou) {

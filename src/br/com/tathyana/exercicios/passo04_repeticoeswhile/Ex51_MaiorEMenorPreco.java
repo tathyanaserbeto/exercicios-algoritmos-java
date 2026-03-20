@@ -18,7 +18,8 @@ public class Ex51_MaiorEMenorPreco {
         double maior = 0;
         double menor = 0;
 
-        for (int i = 1; i <= 8; i++) {
+        int i = 1;
+        while (i <= 8) {
             System.out.print("Digite o preço do produto " + i + ": ");
             preco = scanner.nextDouble();
 
@@ -33,6 +34,7 @@ public class Ex51_MaiorEMenorPreco {
                 menor = preco;
             }
 
+            i++;
         }
 
         System.out.println("O menor número é: " + menor);

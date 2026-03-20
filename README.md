@@ -34,7 +34,8 @@ Cada exercício está implementado em uma classe Java individual.
 
 ## 📌 Status do projeto
 
-- ✅ ETAPA 01 – Sequências Básicas (Exercícios 01 a 16)
-- ✅ ETAPA 02 – Condições Básicas (Exercícios 17 a 25)
-- ✅ ETAPA 03 – Condições Compostas (Exercícios 26 a 37)
-- ⏳ Próximos passos em construção
+- ✅ ETAPA 01 – Exercícios 01 a 16
+- ✅ ETAPA 02 – Exercícios 17 a 25
+- ✅ ETAPA 03 – Exercícios 26 a 37
+- ✅ ETAPA 04 – Exercícios 38 a 55
+- ⏳ Próximas etapas em construção

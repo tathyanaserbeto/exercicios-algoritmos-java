@@ -39,4 +39,5 @@ Cada exercício está implementado em uma classe Java individual.
 - ✅ ETAPA 03 – Exercícios 26 a 37
 - ✅ ETAPA 04 – Exercícios 38 a 55
 - ✅ ETAPA 05 – Exercícios 56 a 60
+- ✅ ETAPA 06 – Exercícios 61 a 63
 - ⏳ Próximas etapas em construção

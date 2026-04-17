@@ -4,8 +4,8 @@
 Este repositório contém a resolução de exercícios de algoritmos
 baseados no material do **Prof. Gustavo Guanabara**, implementados em **Java**.
 
-O objetivo deste projeto é praticar lógica de programação, fundamentos da linguagem
-Java e versionamento com Git/GitHub.
+O objetivo deste projeto é desenvolver habilidades em lógica de programação,
+fundamentos da linguagem Java e boas práticas de versionamento com Git e GitHub.
 
 
 ## 📂 Organização do projeto
@@ -31,6 +31,11 @@ Cada exercício está implementado em uma classe Java individual.
 - IntelliJ IDEA
 - Git e GitHub
 
+## ▶️ Como executar
+
+1. Clone o repositório
+2. Abra o projeto no IntelliJ IDEA
+3. Execute a classe desejada com método `main`
 
 ## 📌 Status do projeto
 
@@ -42,4 +47,5 @@ Cada exercício está implementado em uma classe Java individual.
 - ✅ ETAPA 06 – Exercícios 61 a 63
 - ✅ ETAPA 07 – Exercícios 64 a 70
 - ✅ ETAPA 08 – Exercícios 71 a 85
-- ⏳ Próximas etapas em construção
+- ✅ ETAPA 09 – Exercícios 86 a 94 
+- ⏳ ETAPA 10 – Exercícios 95 a 100 (em andamento)
